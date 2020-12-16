@@ -1,3 +1,3 @@
-# excel_homework1
+# excel_analysis
 
 Homework uploaded
